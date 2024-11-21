@@ -1,0 +1,4 @@
+visualizer_path: "/path/to/mermaid"
+package_name: "bash"
+max_depth: 3
+repository_url: "http://dl-cdn.alpinelinux.org/alpine/latest-stable/main"
